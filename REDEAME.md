@@ -8,8 +8,6 @@ A análise explora o comportamento das operações logísticas, permitindo acomp
 
 O projeto utiliza dados fictícios para fins de estudo e desenvolvimento de habilidades práticas em Business Intelligence.
 
-![Dashboard de Análise Logística](imagens/dashboard-logistica.png)
-
 ## 🎯 Objetivo
 
 Desenvolver uma visão analítica das operações logísticas, facilitando a interpretação dos dados e o acompanhamento de indicadores estratégicos.
