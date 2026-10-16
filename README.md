@@ -51,12 +51,6 @@ As visualizações permitem analisar a distribuição das entregas, acompanhar o
 - Organização de relatórios gerenciais.
 - Desenvolvimento do raciocínio analítico.
 
-## 📁 Arquivos do Projeto
-
-- `dashboard-logistica.pbix` — Arquivo do Power BI.
-- `imagens/dashboard-logistica.png` — Imagem do dashboard.
-- `README.md` — Documentação do projeto.
-
 ## 👩‍💻 Desenvolvido por
 
 **Chayene de Abreu Manoel**
