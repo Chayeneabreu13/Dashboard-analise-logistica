@@ -34,7 +34,7 @@ Desenvolver uma visão analítica das operações logísticas, facilitando a int
 
 ## 📊 Dashboard
 
-![Dashboard de Análise Logística](imagens/dashboard-logistica.png)
+![Dashboard de Análise Logística](imagens/dashboard.png.jpeg)
 
 ## 🔎 Análises Desenvolvidas
 
